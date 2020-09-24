@@ -193,7 +193,7 @@ Method:
 
 **Changes over time**
 
-seasonal or event-driven effect, novelty effect, change aversion.
+Seasonal or event-driven effect, novelty effect, change aversion.
 Use pre and post period combined with cohort analysis to understand the change over time.
 
 
