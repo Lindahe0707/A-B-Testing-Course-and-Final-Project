@@ -83,9 +83,9 @@ We can run experiments or use retrospective analysis to check the metric.
 For instance, mean is sensitive to outliers, median is robustness. 
 You want to the metric to pick up the change you care about (sensitivity) and to be robust against changes that you don’t care about.
 
-[cal var](cal_var.png)
+![cal var](cal_var.png)
 
-[cal_se](cal_se.png)
+![cal_se](cal_se.png)
 
 A/A testing: you are supposed to see any difference due to the underlying variability like system, user population. 
 * sanity check
@@ -131,7 +131,7 @@ Cohorts are harder to analyze and you take more data as you lose users. You use 
 How variability affects sizing:
 When the unit of diversion is different from unit of analysis, we may need more or less samples. (decreasing the variability of the metric can decrease the number of samples)
 
-[relation](relation.png)
+![relation](relation.png)
 
 **4. Duration**
 
