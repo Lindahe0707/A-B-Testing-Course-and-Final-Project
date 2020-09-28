@@ -75,7 +75,7 @@ Use an alpha of 0.05 (significance level) and a beta of 0.2 (power), we want to 
 
 [online_cal](screenshots/online_cal.png)
 
-[size_result](screenshots/size_result.pngsc)
+[size_result](screenshots/size_result.png)
 
 As there are two groups for each metric, the actual sample size across both groups should be twice the sample size we get above. As this sample size represents the unique cookies to click "Start free trial", the total cookies to view course overview page is 40000/3200 = 12.5 times the sample size according to the baseline value. The total pageviews needed for gross conversation is 645,875. 
 
