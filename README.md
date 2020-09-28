@@ -73,9 +73,9 @@ The unit of diversion is a cookie, although if the student enrolls in the free t
 
 Use an alpha of 0.05 (significance level) and a beta of 0.2 (power), we want to estimate how many pageviews are needed in the experiment. The course provides an [online calculator](https://www.evanmiller.org/ab-testing/sample-size.html) to determine the **sample size** we'll need to collect in our experiment. The Minimum Detectable Effect is the practical significance boundary.
 
-[online_cal](screenshots/online_cal.png)
+![online_cal](screenshots/online_cal.png?raw=true)
 
-[size_result](screenshots/size_result.png)
+![size_result](screenshots/size_result.png?raw=true)
 
 As there are two groups for each metric, the actual sample size across both groups should be twice the sample size we get above. As this sample size represents the unique cookies to click "Start free trial", the total cookies to view course overview page is 40000/3200 = 12.5 times the sample size according to the baseline value. The total pageviews needed for gross conversation is 645,875. 
 
